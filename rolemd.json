@@ -24,9 +24,9 @@
   "users": [
     {
       "id": 8492332284,
-      "name": "xObE",
+      "name": "𝘹𝙊𝙗𝙀",
       "username": "xobedevelopment2",
-      "chatId": -1003596848958
+      "chatId": -1003734490737
     },
     {
       "id": 8272410627,
@@ -537,6 +537,30 @@
       "name": "dahlah",
       "username": "Apaaajaaaasu",
       "chatId": -1003596848958
+    },
+    {
+      "id": 1881875530,
+      "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+      "username": "ChoujiShop",
+      "chatId": -1003734490737
+    },
+    {
+      "id": 8788855625,
+      "name": "Support Monzo Banking Service",
+      "username": "Official_Monzo_SupportService089",
+      "chatId": -1003734490737
+    },
+    {
+      "id": 8392525265,
+      "name": "27 depjie",
+      "username": "-",
+      "chatId": -1003734490737
+    },
+    {
+      "id": 6483970607,
+      "name": "mona",
+      "username": "Gyumemek",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -611,6 +635,13 @@
     ],
     "-1003320005121": [
       6821406318
+    ],
+    "-1003734490737": [
+      1881875530,
+      8788855625,
+      8392525265,
+      8492332284,
+      6483970607
     ]
   },
   "partner": [
@@ -626,6 +657,12 @@
     {
       "id": -1003320005121,
       "title": "𝐌𝐔𝐑𝐁𝐔𝐆 𝐁𝐘 𝐈𝐊𝐘𝐘 ☠️",
+      "username": "-",
+      "type": "supergroup"
+    },
+    {
+      "id": -1003734490737,
+      "title": "SC MD XOBE X KARANE",
       "username": "-",
       "type": "supergroup"
     }
@@ -1670,5 +1707,12 @@
   "pendingNumbers": [],
   "numberLimits": {},
   "buylimitInvoices": [],
-  "pakasirUsage": {}
+  "pakasirUsage": {},
+  "linkgb": {
+    "pending": [],
+    "active": [],
+    "history": [],
+    "expireMinutes": 10,
+    "reviewGroupId": -1818822
+  }
 }
