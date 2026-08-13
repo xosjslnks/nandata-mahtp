@@ -28,7 +28,7 @@
       "id": 8492332284,
       "name": "𝘹𝙊𝙗𝙀",
       "username": "xobedevelopment2",
-      "chatId": -1004375850826
+      "chatId": -1003734490737
     },
     {
       "id": 8272410627,
@@ -1752,7 +1752,14 @@
     }
   ],
   "pendingNumbers": [],
-  "numberLimits": {},
+  "numberLimits": {
+    "8392525265": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    }
+  },
   "buylimitInvoices": [],
   "pakasirUsage": {},
   "linkgb": {
