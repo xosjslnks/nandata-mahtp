@@ -1797,15 +1797,15 @@
       "autoCancelAt": "2026-08-17T03:35:56.419Z",
       "chatId": -1003734490737,
       "createdAt": "2026-08-17T03:30:57.282Z",
-      "lastCheckedAt": "2026-08-17T03:31:15.646Z"
+      "lastCheckedAt": "2026-08-17T03:31:30.649Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-17": {
-      "total": 3,
+      "total": 4,
       "endpoints": {
         "/pakasir/transactioncreate": 1,
-        "/pakasir/transactiondetail": 2
+        "/pakasir/transactiondetail": 3
       }
     }
   },
