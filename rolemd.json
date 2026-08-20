@@ -549,6 +549,12 @@
       "name": "Support Monzo Banking Service",
       "username": "Official_Monzo_SupportService089",
       "chatId": -1003734490737
+    },
+    {
+      "id": 8311655220,
+      "name": "balryzl",
+      "username": "nanskzoo",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -628,7 +634,8 @@
       6368340560,
       8605898407,
       8492332284,
-      8788855625
+      8788855625,
+      8311655220
     ],
     "-1004375850826": [
       8492332284
