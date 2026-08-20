@@ -26,7 +26,7 @@
       "id": 8492332284,
       "name": "𝘹𝙊𝙗𝙀",
       "username": "xobedevelopment2",
-      "chatId": -1003734490737
+      "chatId": -1004375850826
     },
     {
       "id": 8272410627,
@@ -622,6 +622,9 @@
       6368340560,
       8605898407,
       8492332284
+    ],
+    "-1004375850826": [
+      8492332284
     ]
   },
   "partner": [
@@ -643,6 +646,12 @@
     {
       "id": -1003734490737,
       "title": "SC MD XOBE X KARANE",
+      "username": "-",
+      "type": "supergroup"
+    },
+    {
+      "id": -1004375850826,
+      "title": "GRUB ACC LINK GRUB MD XOBE",
       "username": "-",
       "type": "supergroup"
     }
@@ -1689,6 +1698,13 @@
       "username": "-",
       "type": "supergroup",
       "addedAt": "2026-08-20T12:07:54.361Z"
+    },
+    {
+      "id": -1004375850826,
+      "title": "GRUB ACC LINK GRUB MD XOBE",
+      "username": "-",
+      "type": "supergroup",
+      "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
   "pendingNumbers": [],
