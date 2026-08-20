@@ -1730,7 +1730,21 @@
     }
   ],
   "pendingNumbers": [],
-  "numberLimits": {},
+  "numberLimits": {
+    "8311655220": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-08-20T14:01:38.733Z"
+        }
+      ]
+    }
+  },
   "buylimitInvoices": [],
   "pakasirUsage": {},
   "linkgb": {
