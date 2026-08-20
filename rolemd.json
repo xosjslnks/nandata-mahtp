@@ -543,6 +543,12 @@
       "name": "小猫~",
       "username": "Fadilaa53",
       "chatId": -1003734490737
+    },
+    {
+      "id": 8788855625,
+      "name": "Support Monzo Banking Service",
+      "username": "Official_Monzo_SupportService089",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -621,7 +627,8 @@
     "-1003734490737": [
       6368340560,
       8605898407,
-      8492332284
+      8492332284,
+      8788855625
     ],
     "-1004375850826": [
       8492332284
