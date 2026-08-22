@@ -1765,10 +1765,17 @@
       ]
     },
     "8408113812": {
-      "limit": 0,
+      "limit": 19,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 19,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 19,
+          "note": "OWNER_ADD",
+          "at": "2026-08-22T04:19:02.436Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [],
