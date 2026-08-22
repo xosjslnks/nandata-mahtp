@@ -1753,6 +1753,19 @@
   ],
   "pendingNumbers": [],
   "numberLimits": {
+    "2": {
+      "limit": 7885282711,
+      "used": 0,
+      "remaining": 7885282711,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 7885282711,
+          "note": "OWNER_ADD",
+          "at": "2026-08-22T05:29:38.252Z"
+        }
+      ]
+    },
     "8311655220": {
       "limit": 2,
       "used": 1,
