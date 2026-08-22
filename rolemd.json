@@ -1809,6 +1809,19 @@
           "at": "2026-08-22T04:33:59.804Z"
         }
       ]
+    },
+    "7885282711": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-08-22T05:30:12.349Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [],
