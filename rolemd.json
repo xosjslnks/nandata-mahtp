@@ -1834,7 +1834,25 @@
   "pakasirUsage": {},
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mt81syxn-9a17ec",
+        "targetUsername": "vennixn",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003734490737,
+        "inviteLink": "https://t.me/+I6EAhJYGqDZjMDQ1",
+        "messageId": 3849,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-25T02:30:58.897Z",
+        "consumed": false
+      }
+    ],
     "history": [],
     "expireMinutes": 10,
     "reviewGroupId": -1004375850826
