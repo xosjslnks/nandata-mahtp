@@ -1835,33 +1835,26 @@
           "at": "2026-08-22T16:33:19.183Z"
         }
       ]
+    },
+    "7815231950": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-08-25T02:33:55.470Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [],
   "pakasirUsage": {},
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mt81syxn-9a17ec",
-        "targetUsername": "vennixn",
-        "targetUserId": 7815231950,
-        "targetName": "-",
-        "chatId": -1003734490737,
-        "inviteLink": "https://t.me/+I6EAhJYGqDZjMDQ1",
-        "messageId": 3849,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-25T02:30:58.897Z",
-        "consumed": true,
-        "consumedAt": "2026-08-25T02:32:06.710Z",
-        "joinedByName": "𝐕ΣППۧ𝐈𝐗"
-      }
-    ],
+    "active": [],
     "history": [],
     "expireMinutes": 10,
     "reviewGroupId": -1004375850826
