@@ -581,6 +581,12 @@
       "name": "Aku King Sidd",
       "username": "sidzyyyy",
       "chatId": -1003734490737
+    },
+    {
+      "id": 7815231950,
+      "name": "𝐕ΣППۧ𝐈𝐗",
+      "username": "Vennixn",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -665,7 +671,8 @@
       1881875530,
       8408113812,
       609517172,
-      7885282711
+      7885282711,
+      7815231950
     ],
     "-1004375850826": [
       8492332284
@@ -1838,7 +1845,7 @@
       {
         "id": "lg-mt81syxn-9a17ec",
         "targetUsername": "vennixn",
-        "targetUserId": null,
+        "targetUserId": 7815231950,
         "targetName": "-",
         "chatId": -1003734490737,
         "inviteLink": "https://t.me/+I6EAhJYGqDZjMDQ1",
@@ -1850,7 +1857,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-25T02:30:58.897Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-25T02:32:06.710Z",
+        "joinedByName": "𝐕ΣППۧ𝐈𝐗"
       }
     ],
     "history": [],
