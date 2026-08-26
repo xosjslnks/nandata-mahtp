@@ -1820,9 +1820,9 @@
       ]
     },
     "7885282711": {
-      "limit": 12,
+      "limit": 52,
       "used": 1,
-      "remaining": 11,
+      "remaining": 51,
       "history": [
         {
           "type": "ADD",
@@ -1841,6 +1841,12 @@
           "qty": 10,
           "note": "OWNER_ADD",
           "at": "2026-08-26T10:00:51.343Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 40,
+          "note": "OWNER_ADD",
+          "at": "2026-08-26T10:01:25.807Z"
         }
       ]
     },
