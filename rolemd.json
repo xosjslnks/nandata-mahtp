@@ -1760,19 +1760,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787750568938-9a0f8be1",
-      "nomor": "6285702498227",
-      "requestedBy": {
-        "id": 7815231950,
-        "name": "𝐕ΣППۧ𝐈𝐗",
-        "username": "Vennixn"
-      },
-      "chatId": -1003734490737,
-      "requestedAt": "2026-08-26T13:22:48.938Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
