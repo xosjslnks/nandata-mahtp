@@ -1933,14 +1933,20 @@
     },
     "8788855625": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "BUYLIMIT BL-MTCXOGNG-14C3",
           "at": "2026-08-28T12:35:22.476Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-28T12:35:32.149Z"
         }
       ]
     }
