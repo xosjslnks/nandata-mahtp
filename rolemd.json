@@ -1955,15 +1955,15 @@
       "autoCancelAt": "2026-08-28T12:39:20.621Z",
       "chatId": -1003734490737,
       "createdAt": "2026-08-28T12:34:23.048Z",
-      "lastCheckedAt": "2026-08-28T12:34:52.179Z"
+      "lastCheckedAt": "2026-08-28T12:35:07.180Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-28": {
-      "total": 3,
+      "total": 4,
       "endpoints": {
         "/pakasir/transactioncreate": 1,
-        "/pakasir/transactiondetail": 2
+        "/pakasir/transactiondetail": 3
       }
     }
   },
