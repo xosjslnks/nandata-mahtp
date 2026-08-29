@@ -564,7 +564,7 @@
       "id": 1881875530,
       "name": "Yth Sir Chouji.",
       "username": "ChoujiShop",
-      "chatId": -1004375850826
+      "chatId": -1003734490737
     },
     {
       "id": 8408113812,
@@ -1782,19 +1782,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787969279899-21f1714c",
-      "nomor": "89674869952",
-      "requestedBy": {
-        "id": 7815231950,
-        "name": "𝐕ΣППۧ𝐈𝐗",
-        "username": "Vennixn"
-      },
-      "chatId": -1003734490737,
-      "requestedAt": "2026-08-29T02:07:59.899Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
