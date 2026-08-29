@@ -1782,7 +1782,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787969571290-40c4dc03",
+      "nomor": "6285136699820",
+      "requestedBy": {
+        "id": 7815231950,
+        "name": "𝐕ΣППۧ𝐈𝐗",
+        "username": "Vennixn"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-08-29T02:12:51.290Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -1880,8 +1892,8 @@
     },
     "7815231950": {
       "limit": 5,
-      "used": 3,
-      "remaining": 2,
+      "used": 4,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
@@ -1942,6 +1954,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-29T02:07:59.899Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-29T02:12:51.290Z"
         }
       ]
     },
