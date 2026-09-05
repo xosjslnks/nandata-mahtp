@@ -1783,7 +1783,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788606387808-b7d684d1",
+      "nomor": "6282190407326",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "Aku Kiyoshi Sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-09-05T11:06:27.808Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -1844,8 +1856,8 @@
     },
     "7885282711": {
       "limit": 11,
-      "used": 1,
-      "remaining": 10,
+      "used": 2,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -1882,6 +1894,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTO9Z119-A41B",
           "at": "2026-09-05T11:04:55.389Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-05T11:06:27.808Z"
         }
       ]
     },
