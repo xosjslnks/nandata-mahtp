@@ -2014,6 +2014,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8934617801": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-09-08T14:40:49.631Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
