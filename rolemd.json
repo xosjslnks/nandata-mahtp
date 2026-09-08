@@ -1797,7 +1797,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788878790996-94067adb",
+      "nomor": "6285141570499",
+      "requestedBy": {
+        "id": 8934617801,
+        "name": "bayz",
+        "username": "kinkbayz"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-09-08T14:46:30.996Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -2017,14 +2029,20 @@
     },
     "8934617801": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-09-08T14:40:49.631Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-08T14:46:30.997Z"
         }
       ]
     }
