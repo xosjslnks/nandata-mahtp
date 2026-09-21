@@ -2100,7 +2100,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mubwecuv-219a0c",
+        "targetUsername": "dezaja",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003734490737,
+        "inviteLink": "https://t.me/+01EIEEEvipMwYWZl",
+        "messageId": 4807,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-09-21T23:50:26.054Z",
+        "consumed": false
+      }
+    ],
     "history": [],
     "expireMinutes": 10,
     "reviewGroupId": -1004375850826
