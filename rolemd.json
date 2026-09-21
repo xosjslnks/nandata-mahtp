@@ -625,6 +625,12 @@
       "name": "Woilahcik",
       "username": "Kontollene",
       "chatId": -1003734490737
+    },
+    {
+      "id": 7706623671,
+      "name": "DEZ",
+      "username": "DEZAJA",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -716,7 +722,8 @@
       8759079555,
       6483970607,
       8934617801,
-      8757495718
+      8757495718,
+      7706623671
     ],
     "-1004375850826": [
       8492332284,
@@ -2104,7 +2111,7 @@
       {
         "id": "lg-mubwecuv-219a0c",
         "targetUsername": "dezaja",
-        "targetUserId": null,
+        "targetUserId": 7706623671,
         "targetName": "-",
         "chatId": -1003734490737,
         "inviteLink": "https://t.me/+01EIEEEvipMwYWZl",
@@ -2116,7 +2123,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-21T23:50:26.054Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-21T23:52:43.711Z",
+        "joinedByName": "DEZ"
       }
     ],
     "history": [],
