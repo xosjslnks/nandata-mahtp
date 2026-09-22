@@ -1811,7 +1811,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1790035207100-9fc729c6",
+      "nomor": "6281239202750",
+      "requestedBy": {
+        "id": 7706623671,
+        "name": "DEZ",
+        "username": "DEZAJA"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-09-22T00:00:07.100Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -2050,14 +2062,20 @@
     },
     "7706623671": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MUBWM5MG-4C0C",
           "at": "2026-09-21T23:58:11.473Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-22T00:00:07.100Z"
         }
       ]
     }
