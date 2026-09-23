@@ -2086,10 +2086,17 @@
       ]
     },
     "8091092407": {
-      "limit": 0,
+      "limit": 10,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 10,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 10,
+          "note": "OWNER_ADD",
+          "at": "2026-09-23T16:16:15.053Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
