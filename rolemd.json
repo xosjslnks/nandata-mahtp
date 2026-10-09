@@ -1844,6 +1844,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-09T07:17:32.949Z"
+    },
+    {
+      "id": "1791530645324-63f55d60",
+      "nomor": "6285719021132",
+      "requestedBy": {
+        "id": 8665364995,
+        "name": "vito",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-09T07:24:05.324Z"
     }
   ],
   "numberLimits": {
@@ -2153,14 +2164,20 @@
     },
     "8665364995": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
           "qty": 2,
           "note": "OWNER_ADD",
           "at": "2026-10-09T07:23:05.538Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-09T07:24:05.324Z"
         }
       ]
     }
