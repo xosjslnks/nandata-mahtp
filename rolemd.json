@@ -1876,6 +1876,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-09T13:18:40.571Z"
+    },
+    {
+      "id": "1791552429499-ccd0e420",
+      "nomor": "6282343279767",
+      "requestedBy": {
+        "id": 7865711278,
+        "name": "fadil",
+        "username": "DilszZRoawrR"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-09T13:27:09.500Z"
     }
   ],
   "numberLimits": {
@@ -2266,14 +2277,20 @@
     },
     "7865711278": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MV0ZZXLO-5807",
           "at": "2026-10-09T13:26:36.664Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-09T13:27:09.500Z"
         }
       ]
     }
