@@ -2124,6 +2124,19 @@
           "at": "2026-10-09T07:33:34.924Z"
         }
       ]
+    },
+    "8855092914": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-10-09T08:23:40.235Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
