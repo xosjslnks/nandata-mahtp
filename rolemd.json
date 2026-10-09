@@ -2104,6 +2104,19 @@
           "at": "2026-09-23T16:16:15.053Z"
         }
       ]
+    },
+    "7789730415": {
+      "limit": 3,
+      "used": 0,
+      "remaining": 3,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 3,
+          "note": "OWNER_ADD",
+          "at": "2026-10-09T07:33:34.924Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -2190,27 +2203,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mv0ndjpo-f9fecd",
-        "targetUsername": "prammmzzz",
-        "targetUserId": 7789730415,
-        "targetName": "-",
-        "chatId": -1003734490737,
-        "inviteLink": "https://t.me/+et7QJtjjGy41YmY1",
-        "messageId": 4925,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-09T07:32:06.186Z",
-        "consumed": true,
-        "consumedAt": "2026-10-09T07:32:31.178Z",
-        "joinedByName": "Pramm"
-      }
-    ],
+    "active": [],
     "history": [],
     "expireMinutes": 10,
     "reviewGroupId": -1004375850826
