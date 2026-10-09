@@ -2150,6 +2150,19 @@
           "at": "2026-10-09T07:17:32.949Z"
         }
       ]
+    },
+    "8665364995": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-10-09T07:23:05.538Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
