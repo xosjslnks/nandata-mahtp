@@ -1840,19 +1840,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791531798248-b63d0df3",
-      "nomor": "6285136541430",
-      "requestedBy": {
-        "id": 7789730415,
-        "name": "Pramm",
-        "username": "Prammmzzz"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-09T07:43:18.248Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
