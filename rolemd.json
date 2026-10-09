@@ -1866,19 +1866,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791554465631-1956d88a",
-      "nomor": "6282343279767",
-      "requestedBy": {
-        "id": 7865711278,
-        "name": "fadil",
-        "username": "DilszZRoawrR"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-09T14:01:05.631Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -2279,8 +2267,8 @@
     },
     "7865711278": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -2299,6 +2287,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-09T14:01:05.631Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-10-09T14:33:06.822Z"
         }
       ]
     }
