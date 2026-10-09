@@ -631,6 +631,12 @@
       "name": "DEZ",
       "username": "DEZAJA",
       "chatId": -1003734490737
+    },
+    {
+      "id": 7789730415,
+      "name": "Pramm",
+      "username": "Prammmzzz",
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -723,7 +729,8 @@
       6483970607,
       8934617801,
       8757495718,
-      7706623671
+      7706623671,
+      7789730415
     ],
     "-1004375850826": [
       8492332284,
@@ -2187,7 +2194,7 @@
       {
         "id": "lg-mv0ndjpo-f9fecd",
         "targetUsername": "prammmzzz",
-        "targetUserId": null,
+        "targetUserId": 7789730415,
         "targetName": "-",
         "chatId": -1003734490737,
         "inviteLink": "https://t.me/+et7QJtjjGy41YmY1",
@@ -2199,7 +2206,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-09T07:32:06.186Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-09T07:32:31.178Z",
+        "joinedByName": "Pramm"
       }
     ],
     "history": [],
