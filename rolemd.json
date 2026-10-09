@@ -23,15 +23,14 @@
     2062028303,
     8240957916,
     8408113812,
-    8788855625,
-    7789730415
+    8788855625
   ],
   "users": [
     {
       "id": 8492332284,
       "name": "𝙭𝙊𝙗𝙀",
       "username": "xobedevelopment2",
-      "chatId": -1003596848958
+      "chatId": -1003734490737
     },
     {
       "id": 8272410627,
@@ -563,9 +562,9 @@
     },
     {
       "id": 1881875530,
-      "name": "Light Yagami",
-      "username": "akuanakmark",
-      "chatId": -1003596848958
+      "name": "Yth Sir Chouji.",
+      "username": "ChoujiShop",
+      "chatId": -1003734490737
     },
     {
       "id": 8408113812,
@@ -637,25 +636,13 @@
       "id": 7789730415,
       "name": "Pramm",
       "username": "Prammmzzz",
-      "chatId": -1003596848958
-    },
-    {
-      "id": 8334417533,
-      "name": "Lunch pengen fames",
-      "username": "lunch07",
-      "chatId": -1003596848958
-    },
-    {
-      "id": 8665364995,
-      "name": "vito",
-      "username": "-",
-      "chatId": -1003596848958
+      "chatId": -1003734490737
     },
     {
       "id": 8855092914,
       "name": "Kink",
       "username": "Kinklix",
-      "chatId": -1003596848958
+      "chatId": -1003734490737
     }
   ],
   "groupUsers": {
@@ -726,12 +713,7 @@
       2062028303,
       8167686814,
       1539901407,
-      8240957916,
-      7789730415,
-      8334417533,
-      1881875530,
-      8665364995,
-      8855092914
+      8240957916
     ],
     "-1003320005121": [
       6821406318
@@ -753,7 +735,9 @@
       6483970607,
       8934617801,
       8757495718,
-      7706623671
+      7706623671,
+      7789730415,
+      8855092914
     ],
     "-1004375850826": [
       8492332284,
@@ -2128,72 +2112,16 @@
         }
       ]
     },
-    "8334417533": {
-      "limit": 10,
-      "used": 1,
-      "remaining": 9,
-      "history": [
-        {
-          "type": "ADD",
-          "qty": 10,
-          "note": "BUYLIMIT BL-MV0MRJ2W-8E91",
-          "at": "2026-10-09T07:17:01.573Z"
-        },
-        {
-          "type": "CUT",
-          "qty": 1,
-          "note": "RESERVE_PENDING",
-          "at": "2026-10-09T07:17:32.949Z"
-        }
-      ]
-    },
-    "8665364995": {
-      "limit": 2,
-      "used": 1,
-      "remaining": 1,
-      "history": [
-        {
-          "type": "ADD",
-          "qty": 2,
-          "note": "OWNER_ADD",
-          "at": "2026-10-09T07:23:05.538Z"
-        },
-        {
-          "type": "CUT",
-          "qty": 1,
-          "note": "RESERVE_PENDING",
-          "at": "2026-10-09T07:24:05.324Z"
-        },
-        {
-          "type": "CUT",
-          "qty": 1,
-          "note": "RESERVE_PENDING",
-          "at": "2026-10-09T07:54:09.805Z"
-        },
-        {
-          "type": "REFUND",
-          "qty": 1,
-          "note": "ACC_DUPLICATE_OR_INVALID",
-          "at": "2026-10-09T07:57:31.921Z"
-        }
-      ]
-    },
     "7789730415": {
-      "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "limit": 3,
+      "used": 0,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
-          "qty": 10,
-          "note": "BUYLIMIT BL-MV0NP4LD-6781",
-          "at": "2026-10-09T07:43:01.925Z"
-        },
-        {
-          "type": "CUT",
-          "qty": 1,
-          "note": "RESERVE_PENDING",
-          "at": "2026-10-09T07:43:18.248Z"
+          "qty": 3,
+          "note": "OWNER_ADD",
+          "at": "2026-10-09T07:33:34.924Z"
         }
       ]
     }
@@ -2255,46 +2183,6 @@
       "createdAt": "2026-09-21T23:56:30.628Z",
       "lastCheckedAt": "2026-09-21T23:58:11.223Z",
       "paidAt": "2026-09-21T23:58:11.472Z"
-    },
-    {
-      "id": "BL-MV0MRJ2W-8E91",
-      "txnId": "g5in0kiq",
-      "userId": 8334417533,
-      "username": "lunch07",
-      "name": "Lunch pengen fames",
-      "role": "member",
-      "qty": 10,
-      "pricePerSlot": 50,
-      "total": 500,
-      "status": "paid",
-      "paymentUrl": "https://app.pakasir.com/pay-v2/g5in0kiq?qris_only=1",
-      "qrisBase64": "data:image/png;base64,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",
-      "expiresAt": "2026-10-09T07:24:58.520Z",
-      "autoCancelAt": "2026-10-09T07:19:58.520Z",
-      "chatId": -1003596848958,
-      "createdAt": "2026-10-09T07:14:59.785Z",
-      "lastCheckedAt": "2026-10-09T07:17:01.160Z",
-      "paidAt": "2026-10-09T07:17:01.572Z"
-    },
-    {
-      "id": "BL-MV0NP4LD-6781",
-      "txnId": "g5iurriq",
-      "userId": 7789730415,
-      "username": "Prammmzzz",
-      "name": "Pramm",
-      "role": "member",
-      "qty": 10,
-      "pricePerSlot": 50,
-      "total": 500,
-      "status": "paid",
-      "paymentUrl": "https://app.pakasir.com/pay-v2/g5iurriq?qris_only=1",
-      "qrisBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAklEQVR4AewaftIAABZKSURBVO3BAY5Y2w4cySpC+99yWguYDwJ+x3e6xYwof0WSJJ0ykSRJ50wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSdM5EkSef8ySNtcxWQTdtsgGza5rcB8tu0zQbIV9pmA+QrbfMvArJpmw2Qr7TNBsgLbbMB8pW2uQrIfzWRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8ycfAvLbtM1X2mYDZNM2v03bvABk0zYvtM0GyAtANm3zFSCbttkA+W2AbNpmA2TTNhsgm7bZAHmhbTZAvgLkt2mbL0wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnn/MkP0zZfAfIVIJu2eQHIC23zQtu8AOQFIJu22QD5bYD8i9rmBSAvAHkByKZtNkBeALJpm9+mbb4C5KeYSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzvkTfaJtNkA2bbMBsmmbDZBN2/w2bbMBsmmbDZDfpm02QDZANm3zFSCbttkA+UmAfKVtNkA2bbMBov+3JpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHP+RJ8AsmmbDZCvtM0LQL7SNhsgLwDZtM1P0jYvtM1XgPwkbfOTANm0zU8CRP//m0iSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks75kx8GiP6btvkKkK+0zVfaZgNkA+SFttkA+UrbfKVtNkA2bfMVIJu2+UmAbNrmXwTkookkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmcP/lQ21zVNhsgm7bZANm0zQbIpm02QDZtswGyaZufpG02QL7SNhsgLwDZtM0GyKZtNkA2bbMBsmmbDZBN2/yL2mYD5IW20f+3iSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6Zw/eQSIfoa2+UnaZgNk0zYvtM0GyKZtfhsgPwmQTdv8JG3zL2qbDZBN22yAvABE//cmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkc8pfeaBtNkA2bfMCkE3bfAXIV9rmK0A2bbMBsmmbDZDfpm303wD5bdrmK0A2bbMBsmmbDZAX2mYD5IW22QDZtM0LQP6riSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6Zw/+VDbbIC80DYvAPltgGzaZgPkK22zAfJC23wFyAtANm3zkwDZtM0GyAttswGyaZsNkA2QF9rmBSCbtvlK22yAbNrmBSBfAfKFiSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6Zw/eQTIpm02bbMB8pW2+RcB+UmA/DZAfhsgm7b5bdpmA+QnaZsNkA2QF9pmA+SFtvkKkK+0zQbITzGRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8ycfAvJC23wFyKZtNkA2bbMBov+tbV4AsmmbF4Bs2uaFtvlt2uaFtrmqbTZANm2zAbIB8kLbvABk0zYbIC+0zQbIfzWRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSdU/7KA23zFSBfaZvfBsgLbfMCkH9R27wA5CdpmxeAvNA2GyCbttkA2bTNC0A2bfMCkE3bvABk0zYvAHmhbTZAXmibDZAvTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSdM5EkSef8ySNAXmibTdtsgGzaZgPkt2mbq9pmA2TTNhsgm7bZtM1XgGyAbNpm0zYbIF8B8i8C8gKQTdv8Nm2zAfJC22yAbNpmA+S/mkiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks4pf+WBtrkKyKZtNkD+RW2zAbJpmw2QTdtsgLzQNi8A2bTNBsimbTZANm2zAfJC22yAbNpmA2TTNi8AeaFtNkA2bfMCkKvaZgPkCxNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI55a/8IG2zAbJpmxeAbNpmA2TTNi8A2bTNV4Bs2uYrQF5omw2Qf1HbfAXIpm02QH6SttkA2bTNBsimbb4CZNM2LwB5oW2+AuQLE0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jnlrxzVNi8A2bSN/jcgm7Z5AchX2mYD5CttswGyaZsNkE3bbIB8pW02QDZt8wKQF9rmBSAvtM0GyG/TNi8A+cJEkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0TvkrD7TNBoj+t7bZANm0zQbIC22zAfJC22yAfKVtXgCyaZsNkBfaRv8bkBfa5gUgm7bZANm0zVeAbNpmA2TTNi8AeaFtNkD+q4kkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmc8ld+mbbZANm0zQtAvtI2GyAvtM0GyFfaZgPkhbbZANm0zQtAvtI2GyCbtnkByAttswGyaZsXgGza5itAXmibrwD5SttsgPwmE0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jl/8kjbbIBs2mYD5CtAfpu22QDZAHmhbTZANkC+AuQrQDZtswGyaZsX2uYFIC+0zVeAbNrmK0BeaJsNkA2Q36ZtNkA2bbMB8lNMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ55S/8g9qm6uAvNA2GyBfaZsNkBfa5gUgm7bZANm0zQbIpm1eAPJC22yAbNrmJwHyQttsgGzaZgNk0zYbIJu2+QqQr7TNC0D+q4kkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmc8lc+0jYbIPrf2uYFIC+0zQtANm3zApAX2mYD5IW22QB5oW02QF5omw2Qn6RtvgLkhbbZANm0zQbIpm02QDZt8wKQTdu8AOSnmEiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks75k1+obTZANm3zApBN22yAbIBs2uaFttkA+UmAvNA2GyAvtM0GyE/SNl9pmw2QTdt8BcgLbfOVttkA+Re1zQbIpm02bbMB8oWJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnPJXfpC2+QqQr7TNC0A2bfMCkE3bfAXIC22zAbJpmw2QTdu8AOS3aZsXgLzQNhsgL7TNV4Bs2mYDZNM2GyAvtM1XgLzQNi8A+a8mkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkc/7kkbbZAPlJ2uYnAbJpmw2QTdts2mYD5Ctt8wKQr7TNBsimbTZt8y8C8tu0zQbIV9rmhbbZANm0zVVAfoqJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnD85DMhX2uYFIJu2eQHIpm1eAPKTtM0GyKZtvgLkK22zAfKVtnkByKZtvtI2GyAbIJu22QDZtM0LQL7SNi+0zQtAvjCRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8yePAPkXtc0GyAtt85O0zVfaZgPkK0BeALJpm6+0zQbIvwjIpm02QPS/Adm0zQttswHykwDZtM0GyH81kSRJ50wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknfMnPwyQF9rmBSBfAbJpm58EyKZtXmibF4C80DYbID8JkK+0zQtAXmibDZAX2mYDZANk0zZfaZufBMhPAmTTNhsgX5hIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOmciSZLO+ZMPtc0GyFfa5idpmw2QF9pmA2TTNhsgX2mbTdv8JEA2bbNpm58EyG/TNi8A2bTNC0BeaJsNkE3bvNA2+n9rIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOqf8lV+mbV4A8pW2eQHIpm02QDZtswGyaZsNkE3bbID8JG2zAbJpm58EyKZtNkA2baP/DchVbbMB8kLbbIC80DYbIP/VRJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM6f/EJANm2zaZvfpm2+AuQnAfJC22yAbNrmK0A2bfMCkE3bbID8i4Bs2uYFIJu22QDZtM0LQF5omw2QF9pmA+SFttkA+cJEkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0TvkrD7TNC0A2bfMVIJu2eQHIpm02QDZt8wKQF9rmBSBfaZuvAPlK22yAvNA2/yIgm7bZAPlJ2mYDZNM2GyAvtM0GyAtt8wKQL0wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnlL/yQNtsgGzaZgPkhbb5CpBN22yA/CRtswGyaZsNkE3bvADkJ2mbDZBN23wFyKZtNkC+0jYbIF9pm68A+W3a5itAXmibF4D8VxNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5f/IIkE3bbIBs2uYFIC+0zQtANm3zApBN22yAvADkBSCbtnmhbTZANm2zAfICEP1vQF5omxeAvNA2L7TNBsimbV4A8kLb/CRAvjCRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8ycfAvLbtM0GyG/TNhsgm7bZANm0zQbIC0A2bbMB8tu0zQbIpm2+0jYvANm0zQtANm3z2wDZtM0LQDZt85O0zQttswHyX00kSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnlL/ykbbZAPlt2uYrQH6bttkA2bTNbwNk0zYbIJu22QB5oW02QDZtswGyaZsXgGza5icBsmmbDZBN22yA/DZt89sA+a8mkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkc/7kkbbZANm0zQbIpm2+AmTTNhsgX2mbDZDfBsimbX6bttkAeaFtXmibrwB5oW02QDZtswGyaZtN22yAfKVtXgDyQtt8BcimbTZAvjCRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8yc/DJBN22yA/DZt8xUgXwGin6FtNkA2bbMB8tsA2bTNC22zAfKVttkA2bTNbwPkJ2mbDZD/aiJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnIkkSTrnTx4BsmmbDZCfpG02QDZAvtI2L7TNBsgLbbMB8hUgL7TNC0A2bbMB8gKQF9pmA2TTNhsgm7bZANm0zQbIC23zApAXgHylbTZAfhIgm7b5wkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTOn/xCQF5omw2QF9pmA+QFIF9pmw2Q36ZtNkA2QF5omw2QF9pmA+QrbbMBsmmbDZDfBshX2uYFIJu2+UrbbIBs2uY3mUiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks75k0fa5ittswGyAbJpm5+kbTZANm3zlbbZANm0zQbIb9M2GyCbtvltgGzaZtM2GyC/Tdt8BchX2uYFIJu2+UmAbNrmCxNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5f/IIkE3b/CRtswGyaZsX2mYDZNM2PwmQf1HbvABk0zYvANm0zaZtvgJk0zYvtM0GyAbIpm02QDZtswHyApAX2uaFttkAeaFtvgLkCxNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5f/JI2/wkbfNC27wAZNM2m7bZANm0zQbIC23zApBN22yAvNA2PwmQF4Bs2mYDZNM2X2mbDZBN22yAbIC8AGTTNl8B8gKQTdt8Bci/ZiJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnIkkSTqn/JWPtM0LQK5qmxeAbNrmK0A2bbMB8kLbvABk0zYbIC+0zU8C5CttswHylbZ5AcgLbbMBsmmbDZAX2uYrQL7SNhsg/9VEkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0Tvkrv0zbbIC80DYbIL9N22yAfKVtNkA2bbMB8pW22QDZtM1vA+SFttkA+UrbbIBs2mYDZNM2LwD5Stv8i4Bs2uYFIP/VRJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM6f/EJAvgLkhbbZAHmhbX6Stvlt2uYrbfMCkK+0zVeAvNA2LwDZtM0LbbMBsmmbTdu8AOQFIF9pm4smkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks6ZSJKkc/7kkba5CshX2mYDZNM2m7Z5AcgLbfMVIJu2+W3aZgPkK23zFSBfAbJpmw2QTdv8JG3zlbbZAHkByKZtfpOJJEk6ZyJJks6ZSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnD/5EJDfpm1+m7bZANm0zQbIpm2+AuSFttkA+UrbvABE/1vbbID8JEA2bbMB8kLbfAXIV9pmA2TTNj/FRJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM6f/DBt8xUgXwGyaZsXgHylbTZAXmibrwB5oW02QF5om5+kbV4A8kLbfKVtXmibDZAX2uYnaZufBMgLQH6KiSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6Zw/0Sfa5itt8wKQF9pmA2QD5CttswGyAfICkBfa5gUgP0nbvABk0zYbIFcBeaFtNkA2bfNC27wA5KeYSJKkcyaSJOmciSRJOmciSZLOmUiSpHMmkiTpnIkkSTpnIkmSzvkT/RhAfpK2eQHIpm1eALJpmw2QTdtsgHylbTZAXmibrwB5AcimbV5omw2QF9rmBSCbttm0zQbITwJk0zYbIC+0zQbIfzWRJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd8yc/DJB/EZB/EZCvANm0zQttswGyaZsXgGyAbNrmBSD/IiBfaZsNkBeAvABk0za/Tdv8JEC+MJEkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ1T/soDbXMVkE3bvABk0zYbIJu2eQHIC23zkwD5SdrmBSAvtM0GyKZtfhsgP0nbvADkhbbZANm0zVeAbNpmA+SnmEiSpHMmkiTpnIkkSTpnIkmSzplIkqRzJpIk6ZyJJEk6ZyJJks4pf0WSJJ0ykSRJ50wkSdI5E0mSdM5EkiSdM5EkSedMJEnSORNJknTORJIknTORJEnnTCRJ0jkTSZJ0zkSSJJ0zkSRJ50wkSdI5E0mSdM5EkiSd838Axi48RxmG+msAAAAASUVORK5CYII=",
-      "expiresAt": "2026-10-09T07:51:06.049Z",
-      "autoCancelAt": "2026-10-09T07:46:06.049Z",
-      "chatId": -1003596848958,
-      "createdAt": "2026-10-09T07:41:07.981Z",
-      "lastCheckedAt": "2026-10-09T07:43:01.515Z",
-      "paidAt": "2026-10-09T07:43:01.925Z"
     }
   ],
   "pakasirUsage": {
@@ -2317,13 +2205,6 @@
       "endpoints": {
         "/pakasir/transactioncreate": 1,
         "/pakasir/transactiondetail": 7
-      }
-    },
-    "2026-10-09": {
-      "total": 18,
-      "endpoints": {
-        "/pakasir/transactioncreate": 2,
-        "/pakasir/transactiondetail": 16
       }
     }
   },
