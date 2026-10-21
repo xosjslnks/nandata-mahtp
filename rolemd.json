@@ -1826,7 +1826,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792591425087-01f5f995",
+      "nomor": "6285167270205",
+      "requestedBy": {
+        "id": 7706623671,
+        "name": "DEZ",
+        "username": "DEZAJA"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-10-21T14:03:45.087Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -2071,8 +2083,8 @@
     },
     "7706623671": {
       "limit": 10,
-      "used": 3,
-      "remaining": 7,
+      "used": 4,
+      "remaining": 6,
       "history": [
         {
           "type": "ADD",
@@ -2097,6 +2109,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-23T05:37:28.905Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-21T14:03:45.088Z"
         }
       ]
     },
