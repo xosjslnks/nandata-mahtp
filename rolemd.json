@@ -1826,19 +1826,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792591425087-01f5f995",
-      "nomor": "6285167270205",
-      "requestedBy": {
-        "id": 7706623671,
-        "name": "DEZ",
-        "username": "DEZAJA"
-      },
-      "chatId": -1003734490737,
-      "requestedAt": "2026-10-21T14:03:45.087Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
