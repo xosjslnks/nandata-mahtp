@@ -1826,19 +1826,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792662659810-3addc11c",
-      "nomor": "6283854777017",
-      "requestedBy": {
-        "id": 8934617801,
-        "name": "bayz",
-        "username": "princebayz"
-      },
-      "chatId": -1003734490737,
-      "requestedAt": "2026-10-22T09:50:59.810Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
