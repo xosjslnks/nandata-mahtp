@@ -637,7 +637,7 @@
     {
       "id": 7789730415,
       "name": "𝕊𝕌𝕂𝕄𝔸 ℙℝ𝔸𝕄ℤ",
-      "username": "Prammmzzz",
+      "username": "SUKMAPRAMZ",
       "chatId": -1003734490737
     },
     {
@@ -1834,19 +1834,7 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792936208519-dad11b4e",
-      "nomor": "6283165898602",
-      "requestedBy": {
-        "id": 8855092914,
-        "name": "Kink",
-        "username": "Kinklix"
-      },
-      "chatId": -1003734490737,
-      "requestedAt": "2026-10-25T13:50:08.520Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
