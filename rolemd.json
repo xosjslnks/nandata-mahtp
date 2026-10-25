@@ -1834,7 +1834,19 @@
       "addedAt": "2026-08-20T12:08:13.897Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792936208519-dad11b4e",
+      "nomor": "6283165898602",
+      "requestedBy": {
+        "id": 8855092914,
+        "name": "Kink",
+        "username": "Kinklix"
+      },
+      "chatId": -1003734490737,
+      "requestedAt": "2026-10-25T13:50:08.520Z"
+    }
+  ],
   "numberLimits": {
     "2": {
       "limit": 7885282711,
@@ -2172,8 +2184,8 @@
     },
     "8855092914": {
       "limit": 5,
-      "used": 2,
-      "remaining": 3,
+      "used": 3,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -2204,6 +2216,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-16T01:44:57.949Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-25T13:50:08.520Z"
         }
       ]
     },
