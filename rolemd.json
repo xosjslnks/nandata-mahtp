@@ -2135,8 +2135,8 @@
     },
     "7789730415": {
       "limit": 8,
-      "used": 3,
-      "remaining": 5,
+      "used": 4,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -2167,6 +2167,12 @@
           "qty": 5,
           "note": "BUYLIMIT BL-MVJ5AMLI-E4CB",
           "at": "2026-10-22T06:14:09.933Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-27T11:34:42.870Z"
         }
       ]
     },
