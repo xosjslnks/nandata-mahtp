@@ -30,9 +30,9 @@
   "users": [
     {
       "id": 8492332284,
-      "name": "𝙭𝙊𝙗𝙀",
+      "name": "𝙭𝙊𝙗𝙀¹⁰",
       "username": "xobedevelopment2",
-      "chatId": -1003734490737
+      "chatId": -1003596848958
     },
     {
       "id": 8272410627,
@@ -252,8 +252,8 @@
     },
     {
       "id": 8240957916,
-      "name": "Hamzx",
-      "username": "hamzajax",
+      "name": "CS : Hamzx Market",
+      "username": "CsHamzxMarket",
       "chatId": -1003596848958
     },
     {
@@ -444,8 +444,8 @@
     },
     {
       "id": 7906329645,
-      "name": "ᯓ 𓆩⚝𓆪 𝗔𝘇𝘇 x͜x 『 𝗢𝗣𝗘𝗡 𝗠𝗔𝗡𝗧𝗔 』",
-      "username": "Azzpengenkawin",
+      "name": "TICO",
+      "username": "-",
       "chatId": -1003596848958
     },
     {
@@ -474,8 +474,8 @@
     },
     {
       "id": 8725041439,
-      "name": "yth",
-      "username": "-",
+      "name": "N e v v ‼️🔥",
+      "username": "Neppnew",
       "chatId": -1003596848958
     },
     {
@@ -554,7 +554,7 @@
       "id": 8788855625,
       "name": "Kafzy",
       "username": "MakloSukaYangaAmpos",
-      "chatId": -1003734490737
+      "chatId": -1003596848958
     },
     {
       "id": 8311655220,
@@ -584,7 +584,7 @@
       "id": 7885282711,
       "name": "Aku Kiyoshi Sidd",
       "username": "sidzyyyy",
-      "chatId": -1003734490737
+      "chatId": -1003596848958
     },
     {
       "id": 7815231950,
@@ -638,7 +638,7 @@
       "id": 7789730415,
       "name": "𝕊𝕌𝕂𝕄𝔸 ℙℝ𝔸𝕄ℤ",
       "username": "SUKMAPRAMZ",
-      "chatId": -1003734490737
+      "chatId": -1003596848958
     },
     {
       "id": 8855092914,
@@ -648,9 +648,39 @@
     },
     {
       "id": 8649255064,
-      "name": "Hitori Market",
-      "username": "AkuHitoriGotou",
-      "chatId": -1003734490737
+      "name": "ChojiM4rket.ID",
+      "username": "ChojiM4rket",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 8773638151,
+      "name": "Falz",
+      "username": "falz_eko",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 8671854977,
+      "name": "brahim str",
+      "username": "brahimstr",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 1480507502,
+      "name": "〆 𝚇 Novaa ❄️",
+      "username": "NovaBobo",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 8291830357,
+      "name": "REYZZ",
+      "username": "ReyyafterbreakUp",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 8216521037,
+      "name": "Ken",
+      "username": "Kenkai19",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -721,7 +751,16 @@
       2062028303,
       8167686814,
       1539901407,
-      8240957916
+      8240957916,
+      8649255064,
+      7789730415,
+      8773638151,
+      7885282711,
+      8671854977,
+      1480507502,
+      8291830357,
+      8788855625,
+      8216521037
     ],
     "-1003320005121": [
       6821406318
@@ -760,7 +799,7 @@
   "groups": [
     {
       "id": -1003596848958,
-      "title": "SC JPM XOBE X KARANE 🧡",
+      "title": "𓃵 SC JPM XOBE ¹⁰",
       "username": "-",
       "type": "supergroup"
     },
